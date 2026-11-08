@@ -1,0 +1,6 @@
+{
+  "name": "FoodPanda Seller",
+  "description": "Restaurant partner management app for FoodPanda sellers to manage menus, categories, customizations, orders, promotional banners, and shop locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
